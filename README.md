@@ -24,8 +24,6 @@ A machine learning-powered web app built with Streamlit that accurately detects 
 | Vectorizer  | TF-IDF (Term Frequency-Inverse Document Frequency) |
 | IDE         | VS Code                                |
 
----
-
 ## 📁 Project Structure
 📦 fake-news-detector/
 │
@@ -84,5 +82,6 @@ If you found this project helpful, please consider starring ⭐ it on GitHub!
 Just say: **"Add this project to my resume"**, and I’ll write a bullet point for you.
 
 Or ready for the **next project suggestion**? Let me know!
+
 
 
